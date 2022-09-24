@@ -1,2 +1,6 @@
-# 项目排除路径
-/node_modules/
+# dependencies
+/node_modules
+
+# build
+/client_build
+/server_build
